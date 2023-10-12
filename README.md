@@ -1,4 +1,4 @@
-
+Some notes: https://jeremy9959.net/Blog/bayesian-online-changepoint-fixed/
 
 Bayesian Changepoint Detection
 ==============================
